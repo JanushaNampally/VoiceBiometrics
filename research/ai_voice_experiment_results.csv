@@ -1,0 +1,17 @@
+
+comparison_type,speaker_1,speaker_2,cosine_similarity
+same_speaker,A1,A2,0.2552
+same_speaker,A1,A3,0.3486
+same_speaker,A2,A3,0.7870
+same_speaker,B1,B2,0.7398
+same_speaker,B1,B3,0.7831
+same_speaker,B2,B3,0.8078
+different_speaker,A1,B1,0.1006
+different_speaker,A1,B2,0.1859
+different_speaker,A1,B3,0.0827
+different_speaker,A2,B1,0.1474
+different_speaker,A2,B2,0.1733
+different_speaker,A2,B3,0.1530
+different_speaker,A3,B1,0.1285
+different_speaker,A3,B2,0.1768
+different_speaker,A3,B3,0.1121
